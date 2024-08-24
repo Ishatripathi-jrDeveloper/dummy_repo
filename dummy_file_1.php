@@ -1,1 +1,3 @@
-print('Hello from branch 1')
+<?php
+ echo 'Hello from branch 1';
+?>
