@@ -1,3 +1,3 @@
 <?php
- echo 'Hello from branch 1';
+ echo 'Hello from updated branch 1';
 ?>
